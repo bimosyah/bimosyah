@@ -21,6 +21,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=Django)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=Express)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat&logo=Ruby)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimosyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
