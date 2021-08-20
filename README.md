@@ -15,6 +15,7 @@
 ![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=Github)
 ![Python](https://img.shields.io/badge/-python-black?style=flat&logo=python)
 ![Docker](https://img.shields.io/badge/-docker-black?style=flat&logo=docker)
+![Rabbitmq](https://img.shields.io/badge/-rabbitmq-black?style=flat&logo=rabbitmq)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat&logo=Codeigniter)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimosyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
