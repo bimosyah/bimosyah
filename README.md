@@ -18,6 +18,8 @@
 ![Rabbitmq](https://img.shields.io/badge/-rabbitmq-black?style=flat&logo=rabbitmq)
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat&logo=Codeigniter)
 ![Mysql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=Flask)
+![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=Django)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bimosyah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
