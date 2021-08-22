@@ -1,6 +1,11 @@
-### Hi👋 I'm Bimo Syahputro
+### Hi there, I'm Bimo 👋
 
-- ⛄ I’m currently learning <b>Backend Path</b>
+
+## I'm a Developer and Learner!!
+
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2021 Goals: healthier and thinner
+- ⚡ Fun fact: I love travelling
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=HTML5)
@@ -28,4 +33,4 @@
 
 ### 📫 Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-bimosyahputro-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bimosyah14/)](https://www.linkedin.com/in/bimosyah14/)
-[![Email Badge](https://img.shields.io/badge/-bimosyah@icloud.com-white?style=flat&logo=apple&logoColor=white&link=mailto:bimosyah@icloud.com)](mailto:bimosyah@icloud.com)
+[![Email Badge](https://img.shields.io/badge/-bimosyah@icloud.com-black?style=flat&logo=apple&logoColor=white&link=mailto:bimosyah@icloud.com)](mailto:bimosyah@icloud.com)
